@@ -3,7 +3,7 @@ layout: post
 title: Example content
 categories:
 - naringu
-permalink: /full-stop/posts/example
+permalink: /posts/example
 ---
 
 
