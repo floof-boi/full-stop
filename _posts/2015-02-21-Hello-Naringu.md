@@ -3,6 +3,7 @@ layout: post
 title: Hello Naringu!
 categories:
 - naringu
+permalink: /posts/hello
 ---
 
 Naringu is a hacker like jekyll dark theme, it's based on [Poole](http://getpoole.com), the Jekyll butler.
@@ -18,10 +19,6 @@ Poole is the Jekyll Butler, serving as an upstanding and effective foundation fo
 * Related posts (time-based, because Jekyll) below each post
 * Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)
 
-<<<<<<< HEAD
-
-=======
->>>>>>> master
 ### Download
 
 Naringu is developed on and hosted with GitHub. Head to the <a href="https://github.com/ariestiyansyah/naringu">GitHub repository</a> for downloads, bug reports, and features requests.
