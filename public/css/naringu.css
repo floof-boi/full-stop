@@ -37,7 +37,7 @@ body {
 }
 
 html {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
 }
@@ -149,7 +149,7 @@ code {
   padding: .25em .5em;
   font-size: 85%;
   color: #000;
-  background-color: #0CDADA;;
+  background-color: #004d4d;
   border-radius: 3px;
 }
 pre {
