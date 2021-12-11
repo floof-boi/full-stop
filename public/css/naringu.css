@@ -48,7 +48,7 @@ html {
 }
 
 body {
-  color: #fff;
+  color: #8a8a8a;
   background-color: #000;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
@@ -210,7 +210,7 @@ pre code {
 blockquote {
   padding: .5rem 1rem;
   margin: .8rem 0;
-  color: #45B7FF;
+  color: #004d4d;
   border-left: .25rem solid #e5e5e5;
 }
 blockquote p:last-child {
