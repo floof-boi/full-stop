@@ -149,7 +149,7 @@ code {
   padding: .25em .5em;
   font-size: 85%;
   color: #000;
-  background-color: #004d4d;
+  background-color: #25BFBF;
   border-radius: 3px;
 }
 pre {
@@ -513,7 +513,7 @@ a.sidebar-nav-item:focus {
   margin-bottom: 1rem;
   padding: 1rem;
   color: #000;
-  background-color: #00879c;
+  background-color: #25BFBF;
 }
 
 /*
