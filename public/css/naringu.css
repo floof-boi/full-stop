@@ -210,7 +210,7 @@ pre code {
 blockquote {
   padding: .5rem 1rem;
   margin: .8rem 0;
-  color: #004d4d;
+  color: #25BFBF;
   border-left: .25rem solid #e5e5e5;
 }
 blockquote p:last-child {
@@ -513,7 +513,7 @@ a.sidebar-nav-item:focus {
   margin-bottom: 1rem;
   padding: 1rem;
   color: #000;
-  background-color: #6DD;
+  background-color: #00879c;
 }
 
 /*
