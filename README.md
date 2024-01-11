@@ -3,7 +3,9 @@
 This is a small blog built using a revived version of [Naringu](https://github.com/ariestiyansyah/naringu), a dark Jekyll theme.
 
 ## How to Update This Blog
-- check out `_posts/`
+- **Make a new markdown file in `_posts/`.** Follow the rxisting format for naming, tags, etc.
+- As of 1/11/24, Github Pages deploys straight from `main` upon publish. This means that when a change is pushed to the `main` branch of this repo, [it'll go live basically immediately](https://kellyfesler.com/full-stop/).
+  -  This is convenient for now, but you may want to consider having Github Pages deploy from a different branch in the future, to add a buffer for spotting typos, etc. 
 
 ## How I Fixed Naringu
 With no updates in the last few years, Naringu required a little work out of the box.
