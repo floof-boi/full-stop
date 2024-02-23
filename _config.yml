@@ -15,7 +15,7 @@ title:               full stop.
 tagline:             'a secret blog'
 description:         'based on the Naringu theme for Jekyll'
 url:                 https://kellyfesler.com
-baseurl:             /full-stop/
+baseurl:             /full-stop
 paginate:            7
 
 # About/contact
