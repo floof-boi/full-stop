@@ -6,8 +6,6 @@ categories:
 permalink: /posts/is-this-thing-on
 ---
 
-...
-
 Hello again. I'm writing to share that I had my first interview in a couple years! More coming soon. I'm also here to start actually writing stuff.
 
 *to be continued...*
