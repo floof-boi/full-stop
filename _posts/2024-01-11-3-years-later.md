@@ -6,8 +6,6 @@ categories:
 permalink: posts/3-years-later
 ---
 
-# 3 years later...
-
 If you're reading this, that means I successfully re-learned how to update this little corner of the internet. Hooray!
 
 Okay. A lot's happened in my 3-year absence.
