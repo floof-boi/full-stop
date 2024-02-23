@@ -17,7 +17,6 @@ description:         'based on the Naringu theme for Jekyll'
 url:                 https://kellyfesler.com
 baseurl:             /full-stop
 paginate:            7
-show_excerpts:       false
 
 # About/contact
 author:
