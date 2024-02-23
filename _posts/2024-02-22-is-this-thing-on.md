@@ -3,7 +3,7 @@ layout: post
 title: Is this thing on
 categories:
 - updates
-permalink: posts/is-this-thing-on
+permalink: /posts/is-this-thing-on
 ---
 
 ...

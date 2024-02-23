@@ -3,7 +3,7 @@ layout: post
 title: 3 years later...
 categories:
 - updates
-permalink: posts/3-years-later
+permalink: /posts/3-years-later
 ---
 
 ...
